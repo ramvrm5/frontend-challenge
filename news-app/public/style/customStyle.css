@@ -1,0 +1,9 @@
+main.v-content{
+    padding: 64px 0px 0px 0px !important;
+}
+aside.v-navigation-drawer{
+    height:unset !important
+}
+nav.v-toolbar{
+    padding-left: unset !important;
+}
